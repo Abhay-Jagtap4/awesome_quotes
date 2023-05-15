@@ -1,6 +1,6 @@
-# quotes
+# Awesome Quotes
 
-A new Flutter project.
+A quote display app with delete quote option.
 
 ## Getting Started
 
